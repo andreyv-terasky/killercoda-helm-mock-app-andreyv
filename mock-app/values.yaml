@@ -1,5 +1,5 @@
 appName: mock-app
-message: "I DID IT!"
+message: "I DID IT NOW!"
 image:
   repository: benmalekarim/mock-app
   tag: v1.1.0
